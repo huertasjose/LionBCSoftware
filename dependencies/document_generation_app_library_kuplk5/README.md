@@ -1,4 +1,4 @@
-# LionBC Software
+# document-generation-app-library
 
 A new Flutter project.
 

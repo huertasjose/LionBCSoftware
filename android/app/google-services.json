@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "805388382483",
+    "firebase_url": "https://lionbc-barberia-default-rtdb.firebaseio.com",
+    "project_id": "lionbc-barberia",
+    "storage_bucket": "lionbc-barberia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805388382483:android:0b8f71ad80e406f8b7aae6",
+        "android_client_info": {
+          "package_name": "com.LionBCSOftware.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJNlIiJ9hRuuyHpbZ3ildg-7_P-rJZUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

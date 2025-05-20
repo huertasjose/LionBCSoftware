@@ -1,0 +1,46 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Citas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "correoCliente",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fecha",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Servicios_Realizado",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "clienteNombre",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fecha_hora",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Citas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "barbero",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fecha",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
